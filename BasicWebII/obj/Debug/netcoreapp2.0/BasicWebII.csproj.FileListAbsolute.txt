@@ -1,0 +1,10 @@
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/BasicWebII/bin/Debug/netcoreapp2.0/BasicWebII.deps.json
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/BasicWebII/bin/Debug/netcoreapp2.0/BasicWebII.runtimeconfig.json
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/BasicWebII/bin/Debug/netcoreapp2.0/BasicWebII.runtimeconfig.dev.json
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/BasicWebII/bin/Debug/netcoreapp2.0/BasicWebII.dll
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/BasicWebII/bin/Debug/netcoreapp2.0/BasicWebII.pdb
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/BasicWebII/obj/Debug/netcoreapp2.0/BasicWebII.csproj.CoreCompileInputs.cache
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/BasicWebII/obj/Debug/netcoreapp2.0/BasicWebII.AssemblyInfoInputs.cache
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/BasicWebII/obj/Debug/netcoreapp2.0/BasicWebII.AssemblyInfo.cs
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/BasicWebII/obj/Debug/netcoreapp2.0/BasicWebII.dll
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/BasicWebII/obj/Debug/netcoreapp2.0/BasicWebII.pdb
