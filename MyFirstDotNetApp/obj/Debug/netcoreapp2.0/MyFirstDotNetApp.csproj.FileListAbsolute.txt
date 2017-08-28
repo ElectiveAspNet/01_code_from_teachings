@@ -1,0 +1,10 @@
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/MyFirstDotNetApp/obj/Debug/netcoreapp2.0/MyFirstDotNetApp.csproj.CoreCompileInputs.cache
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/MyFirstDotNetApp/obj/Debug/netcoreapp2.0/MyFirstDotNetApp.AssemblyInfoInputs.cache
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/MyFirstDotNetApp/obj/Debug/netcoreapp2.0/MyFirstDotNetApp.AssemblyInfo.cs
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/MyFirstDotNetApp/bin/Debug/netcoreapp2.0/MyFirstDotNetApp.deps.json
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/MyFirstDotNetApp/bin/Debug/netcoreapp2.0/MyFirstDotNetApp.runtimeconfig.json
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/MyFirstDotNetApp/bin/Debug/netcoreapp2.0/MyFirstDotNetApp.runtimeconfig.dev.json
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/MyFirstDotNetApp/bin/Debug/netcoreapp2.0/MyFirstDotNetApp.dll
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/MyFirstDotNetApp/bin/Debug/netcoreapp2.0/MyFirstDotNetApp.pdb
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/MyFirstDotNetApp/obj/Debug/netcoreapp2.0/MyFirstDotNetApp.dll
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/01_introduction/01_code_from_teachings/MyFirstDotNetApp/obj/Debug/netcoreapp2.0/MyFirstDotNetApp.pdb
